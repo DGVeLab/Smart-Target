@@ -80,10 +80,9 @@ Smart Target is designed for ESP-based development boards.
 
 Typical configuration includes:
 
-• ESP microcontroller  
+• ESP32 microcontroller  
 • servo motor for target movement  
-• target detection system  
-• optional LEDs for visual feedback  
+• optical endstop
 
 Full hardware details are available on the Maker platforms.
 

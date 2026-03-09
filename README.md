@@ -18,8 +18,8 @@ The **mechanical parts, assembly instructions, and printable components** are av
 
 Complete project pages:
 
-• MakerWorld → [https://makerworld.com/your-link  ](https://makerworld.com/en/@DGVeLab)
-• MakerOnline → [https://makeronline.com/your-link  ](https://www.makeronline.com/en/user/personalInfo/7659f18f-330a-4e56-b98a-202a323bc26e.html?trackUserType=1)
+• [MakerWorld](https://makerworld.com/en/@DGVeLab)
+• [MakerOnline](https://www.makeronline.com/en/user/personalInfo/7659f18f-330a-4e56-b98a-202a323bc26e.html?trackUserType=1)
 
 These pages include:
 

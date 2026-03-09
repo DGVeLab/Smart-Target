@@ -60,7 +60,7 @@ To program the device you must use:
 
 Download it here:
 
-➡ https://github.com/YOUR_LINK/ESPprogrammer
+➡ [ESPprogrammer 2](https://github.com/DGVeLab/ESP-Programmer)
 
 ESPprogrammer allows easy flashing of ESP32 / ESP8266 devices and is recommended for Smart Target installation.
 

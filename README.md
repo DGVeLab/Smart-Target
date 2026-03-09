@@ -2,7 +2,7 @@
 
 Interactive electronic target system by **DGVeLab**
 
-![Smart Target](images/smart_target.jpg)
+![Smart Target](images/smart_target.png)
 
 Smart Target is an interactive electronic target system designed for reaction training, shooting practice, and technical experimentation.
 

@@ -111,4 +111,7 @@ Maker, electronics enthusiast, and creator of functional DIY hardware projects.
 
 # 📜 License
 
-See the LICENSE file for details.# Smart-Target
+This firmware is released under the **DGVeLab Non-Commercial License**.
+
+Personal and educational use are allowed.  
+Commercial use requires permission from the author.
